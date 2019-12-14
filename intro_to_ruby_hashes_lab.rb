@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  #blah
+  number_two = {nmbr:2}
 end
 
 def pioneer
