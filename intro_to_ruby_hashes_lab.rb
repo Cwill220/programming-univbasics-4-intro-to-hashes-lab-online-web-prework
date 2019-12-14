@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  butter_ball = {beer: = "soup"}
+  
 end
 
 def pioneer
